@@ -1,0 +1,8 @@
+.options {
+  display: flex;
+  column-gap: 30px;
+  justify-content: center;
+}
+.options__button {
+  padding: 8px 16px;
+}
